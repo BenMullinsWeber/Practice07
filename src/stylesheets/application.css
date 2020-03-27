@@ -1,7 +1,10 @@
-@import url('~normalize.css/normalize.css');
+@import url("~bootstrap/dist/css/bootstrap.css");
 
-* {
-  box-sizing: border-box;
+.box {
+  float: left;
+  width: 100px;
+  height: 100px;
 }
 
-/* TODO */
+.red {background-color: red;}
+.blue {background-color: blue;}
